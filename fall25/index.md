@@ -31,6 +31,6 @@ CS 651 provides a programming-centric introduction to distributed systems. The c
 ## Prerequisites
 **CAS CS 350, CS 351, or equivalent (will be enforced!)**
 
-CS 651 requires basic knowlegde of computer systems. Students must also have good programming skills, otherwise it will be difficult to keep up with the load. Prior experience with parallel programming is a plus but not required to succeed in the course.
+CS 651 requires basic knowledge of computer systems. Students must also have good programming skills, otherwise it will be difficult to keep up with the load. Prior experience with parallel programming is a plus but not required to succeed in the course.
 
 

@@ -26,7 +26,7 @@ parallelism, replication, fault tolerance, consensus, atomicity, and data consis
 
 - Feel comfortable about building distributed systems and applications
 
-## Course Structure
+## Course Overview
 CS 651 provides a programming-centric introduction to distributed systems. The course discusses computation and communication primitives, concurrency control, parallelism, replication, fault tolerance, distributed consensus, data consistency, sharding and consistent hashing, distributed transactions, cluster computing, distributed tracing, peer-to-peer systems, serverless, and systems for decentralized trust. Most lectures are centered on real case studies from industry. CS 651 is a graduate-level course that includes graded paper reading and requires independent exploration of the material. 
 
 ### Topics
@@ -51,7 +51,7 @@ CS 651 provides a programming-centric introduction to distributed systems. The c
 ## Prerequisites
 **CAS CS 350, CS 351, or equivalent (will be enforced!)**
 
-CS 651 requires basic knowlegde of computer systems. Students must also have good programming skills, otherwise it will be difficult to keep up with the load. Prior experience with parallel programming is a plus but not required to succeed in the course.
+CS 651 requires basic knowledge of computer systems. Students must also have good programming skills, otherwise it will be difficult to keep up with the load. Prior experience with parallel programming is a plus but not required to succeed in the course.
 
 ## Instructional Format and Course Materials
 
@@ -144,7 +144,7 @@ We will release 6 programming assignments during the semester:
 
 ### 3.5 Research Projects
 
-PhD students may chose to replace assignments A5-6 with a small project related to their research, provided that the project includes a distributed systems component. Research projects need approval by the instructor. If you are interested, please send your propject proposal to the instructor by **October 15**. 
+PhD students may chose to replace assignments A5-6 with a small project related to their research, provided that the project includes a distributed systems component. Research projects need approval by the instructor. If you are interested, please send your project proposal to the instructor by **October 15**. 
 
 ## 4. Class and University Policies
 
@@ -159,7 +159,7 @@ Please take the time to review the [CAS Academic Conduct Code](http://www.bu.edu
 
 ### 4.3 On the use of GenAI tools
 
-You are free to use AI tools like Copilot or ChatGPT to help you with the assignments (e.g., for troubleshooting). Prompts like: _"My program spawns two Go routines each printing 'Hello', but when I run it nothing is printed. What may have gone wrong?"_ are fine. However, **asking an AI tool to generate an entire solution for you is not acceptable** (and will most likely get you flagged for plagiarism). AI should amplify your understanding of the material, not replace it. Be aware that AI-generated content oftentimes contains errors, omissions, bugs, and misinterpretations that may impact your score. Do not trust anything that an LLM says before cross-checking with another source. 
+You are free to use AI tools like Copilot or ChatGPT to help you with the assignments (e.g., for troubleshooting). Prompts like _"My program spawns two Go routines each printing 'Hello', but when I run it nothing is printed. What may have gone wrong?"_ are fine. However, **asking an AI tool to generate an entire solution for you is not acceptable** (and will most likely get you flagged for plagiarism). AI should amplify your understanding of the material, not replace it. Be aware that AI-generated content oftentimes contains errors, omissions, bugs, and misinterpretations that may impact your score. Do not trust anything that an LLM says before cross-checking with another source. 
 
 ## 5. Accommodations
 If you are a student with a disability or believe you might have a disability that requires accommodations, please contact the Office for Disability Services (ODS) at (617) 353-3658 or access@bu.edu to coordinate any reasonable accommodation requests. ODS is located at 25 Buick Street on the 3rd floor.
