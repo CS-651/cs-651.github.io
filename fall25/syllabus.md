@@ -66,8 +66,8 @@ We will use:
 
 ### 2.2 Lectures
 Lectures will be held during the assigned time slots. 
-[The detailed lecture schedule](./lectures.html) provides the topic and assigned readings for each lecture. 
-Lecture and lab slides will be made available on Piazza. Some [lectures](./lectures.html) have pointers to readings, which you should complete prior to the lecture.
+The [detailed lecture schedule](./lectures.html) provides the topic for each lecture. 
+Lecture and lab slides will be made available on Piazza. Some lectures have pointers to assigned readings, which you should complete prior to the lecture.
 
 #### Textbook
 The course does not have a required textbook. The best material to study from are the lecture and lab slides, as well as the notes you take in class. If you are looking for additional resources, below are some good books on distributed systems:
