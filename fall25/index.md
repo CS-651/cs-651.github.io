@@ -25,7 +25,7 @@ Welcome to **CS 651: Distributed Systems** - Fall 2025.
 ## Overview
 CS 651 provides a programming-centric introduction to distributed systems. The course discusses computation and communication primitives, concurrency control, parallelism, replication, fault tolerance, distributed consensus, data consistency, sharding and consistent hashing, distributed transactions, cluster computing, distributed tracing, peer-to-peer systems, serverless, and systems for decentralized trust.  
 
-> **NOTE:** CS 651 targets senior and graduate students who enjoy hacking and have genuine interest in understanding distributed systems internals. The course has an overlap in topics with my undergraduate course CS 351, but the assignments are different (and more challenging). Unlike CS 351, this course focuses more on real systems from industry, includes graded paper reading, and requires independent exploration of the material. 
+> **NOTE:** CS 651 targets graduate students who enjoy hacking and have genuine interest in understanding distributed systems internals. The course has an overlap in topics with my undergraduate course CS 351, but the assignments are different (and more challenging). Unlike CS 351, this course focuses more on real systems from industry, includes graded paper reading, and requires independent exploration of the material. 
 
 
 ## Prerequisites

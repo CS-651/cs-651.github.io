@@ -25,6 +25,7 @@ Please contact us on [Piazza](https://piazza.com/bu/fall2025/cascs651/home) if a
 - [PNUTS: Yahoo!'s hosted data serving platform](https://dl.acm.org/doi/10.14778/1454159.1454167)
 - [Dynamo: Amazon's highly available key-value store](https://dl.acm.org/doi/10.1145/1323293.1294281)
 - [Spanner: Google's globally-distributed database](https://www.usenix.org/conference/osdi12/technical-sessions/presentation/corbett)
+- [Chord: A Scalable Peer-to-peer Lookup Service for Internet Applications](https://dl.acm.org/doi/10.1145/964723.383071)
 - [Bitcoin: A peer-to-peer electronic cash system](https://bitcoin.org/bitcoin.pdf)
 
 ## Other recommended papers and articles

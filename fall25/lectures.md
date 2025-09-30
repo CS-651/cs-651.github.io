@@ -24,7 +24,7 @@ You may also want to take a look at the [Official Semester Dates](https://www.bu
 |  10/13 |  |  | HW4: OmniPaxos B |
 |  10/14 |  Hacking Day (No lecture) | - | |
 |  10/15 |  **Review: Lectures 1-12 / Practice Exam** | - | |
-|  10/20  | L12:  Guest Lecture by Prof. Romaric Duvignau (Chalmers): DHTs and Trackerless BitTorrent | TBD | |
+|  10/20  | L12:  Guest Lecture by Prof. Romaric Duvignau (Chalmers): DHTs and Trackerless BitTorrent | [Chord](https://dl.acm.org/doi/10.1145/964723.383071) | |
 |  10/22  | L13:  Eventual Consistency (conflict resolution; gossip protocols)  | [Dynamo](https://dl.acm.org/doi/10.1145/1323293.1294281) | |
 |  10/27  | **Midterm (during lecture)** | Lectures 1-11 | |
 |  10/29  | L14: Distributed Transactions I (serializability; snapshot isolation)  | [Spanner](https://www.usenix.org/conference/osdi12/technical-sessions/presentation/corbett) | |
