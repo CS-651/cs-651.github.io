@@ -7,7 +7,7 @@ Welcome to **CS 651: Distributed Systems** - Fall 2025.
 - **Instructors**: [John Liagouris](https://cs-people.bu.edu/liagos/)
 - **Teaching Fellows**: [Eli Baum](https://elibaum.com)
 - **Lectures**: Mon/Wed 2.30-3.45pm, CDS 701
-- **Discussions**: Fri 2.30-.3.20pm, CDS 701
+- **Discussions**: Fri 2.30-3.20pm, CDS 701
 
 > **NOTE:** The course staff does not have access to the registration system and cannot help you register for the course.
 

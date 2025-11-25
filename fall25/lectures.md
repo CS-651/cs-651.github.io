@@ -33,7 +33,7 @@ You may also want to take a look at the [Official Semester Dates](https://www.bu
 |  11/10  | L17: Cluster Computing (dataflow model) | [Spark](https://dl.acm.org/doi/10.5555/2228298.2228301) | |
 |  11/12  | L18: Cluster Management (resource consolidation; job scheduling)| [Borg](https://dl.acm.org/doi/10.1145/2741948.2741964) |  |
 |  11/17  | L19: Distributed Tracing (microservices) | [Pivot Tracing](https://dl.acm.org/doi/10.1145/2815400.2815415) | HW6: PubSub B |
-|  11/19  | L20: Distributed Training (ML) | TBD | |
+|  11/19  | L20: Distributed Training (ML) | [Collective Communication for 100k+ GPUs][https://arxiv.org/abs/2510.20171] | |
 |  11/24  | L21: Serverless Computing  | [Cloud Programming Simplified](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2019/EECS-2019-3.pdf) |  |
 |  12/1  | L22:  Decentralized Trust  | [Conclave](https://dl.acm.org/doi/10.1145/3302424.3303982) |  |
 |  12/3  | L23: Bitcoin | [Bitcoin](https://bitcoin.org/bitcoin.pdf) | |
