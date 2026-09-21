@@ -6,7 +6,7 @@ Welcome to **CS 651: Distributed Systems** - Fall 2026.
 ## Course information
 - **Instructors**: [John Liagouris](https://cs-people.bu.edu/liagos/)
 - **Teaching Fellows**: [Danesh Kohina](https://sites.bu.edu/casp/people/danesh-kohina/)
-- **Lectures**: Mon/Wed 2.30-3.45pm, CDS 701
+- **Lectures**: Mon/Wed 2.30-3.45pm, PSY B53
 - **Discussions**: Fri 2.30-3.20pm, CDS 364
 
 > **NOTE:** The course staff does not have access to the registration system and cannot help you register for the course.
