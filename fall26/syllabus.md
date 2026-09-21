@@ -42,7 +42,6 @@ CS 651 provides a programming-centric introduction to distributed systems. The c
 - Publish/Subscribe Systems
 - Distributed Computing (MapReduce; dataflow model)
 - Cluster Management (resource consolidation; job scheduling)
-- Serverless Computing
 - Distributed Training (ML)
 - Distributed Tracing (microservices)
 - Decentralized Trust (blockchain; secure multiparty computation)
