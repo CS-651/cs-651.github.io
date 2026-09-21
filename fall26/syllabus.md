@@ -5,7 +5,7 @@
 **Instructors**: John Liagouris  
 **Teaching Assistants**: Danesh Kohina
 
-**Lectures**: Mon/Wed 2.30-3.45pm, CDS 701   
+**Lectures**: Mon/Wed 2.30-3.45pm, PSY B53   
 **Discussions**: Fri 2.30-3.20pm, CDS 364
 
 **Instructor Office Hours**: Mon 4-5.30pm and Wed 4-5.30pm, CDS 721   
